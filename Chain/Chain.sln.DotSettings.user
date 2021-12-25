@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f129cbda_002D7345_002D4dda_002Dabda_002Da4ef5796e0e7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Purchase_WithValidArguments_CreateValidInstance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.PurchaseTests.Test_Purchase_WithValidArguments_CreateValidInstance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.DirectorTests.Test_ProcessRequest_WithUnderLimit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.DirectorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.VicePresidentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.PresidentTests.Test_ProcessRequest_WithUnderLimit&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.PresidentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.ChainTests.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0317FF6B-9BF0-4C00-AA68-67DF71319E02::net5.0::TestProject1.ChainTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
